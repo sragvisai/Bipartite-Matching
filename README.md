@@ -5,7 +5,7 @@ Python Code to take bipartite graph, reduce it to max flow graph and finding the
 
 Find the greatest matching between the left and right sides of an undirected bipartite graph. Each node in the left half L linked minimum of one node in the right half R. 
 
-**Interest for the Problem **
+**Interest for the Problem**
 
 We were looking for problems on graphs, and assumed this would be good one since this solution helps in lot of scalability and performance in computing. One real world problem can be a number of job positions and its applicants, matching of multilevel image features in object recognition.
 
